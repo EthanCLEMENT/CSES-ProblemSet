@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanclement/Documents/CSES/Introductory Problems/output/increasingArray'
+relocations:     []
+...
